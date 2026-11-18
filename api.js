@@ -13,3 +13,5 @@ export async function fetchProducts() {
         console.log("Failed to fetch products:", error.message);
     }
 }
+
+
